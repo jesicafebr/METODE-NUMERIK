@@ -1,1 +1,0 @@
-# METODE-NUMERIK
